@@ -1,0 +1,6 @@
+Experiment description:
+Hypers: (64, 10, 128, 14, 5, 10, 10**-4, 0.9, 1/3, torch.device('cpu'), torch.device('cpu'))
+
+Logs:
+END PLAY | AVERAGE SCORE 820.0 | LOW SCORE 500.0 | HIGH SCORE 1400.0
+END ACTION/EMBEDDING TRAINING | AVERAGE LOSS 1.760170554931347
