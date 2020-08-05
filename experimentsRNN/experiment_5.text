@@ -1,0 +1,6 @@
+Experiment description:
+Softmaxed output, Hypers: (40, 1, agent_hypers, 1/4, 1/4, 1000)
+
+Logs:
+BEGIN RUNNING POPULATION | GENERATION 0
+END RUNNING POPULATION | AVERAGE SCORE 472.5 | LOW SCORE 0.0 | HIGH SCORE 1200.0
